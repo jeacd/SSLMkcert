@@ -81,7 +81,7 @@ server {
 
 ---
 
-## 6. Criar Conteúdo de Teste
+## 6. Criar Conteúdo de Teste(Caso não tenha um projeto para testar)
 
 ```bash
 sudo mkdir -p /var/www/testhost
